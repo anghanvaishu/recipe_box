@@ -11,5 +11,8 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require jquery
+//= require jquery_ujs
 document.addEventListener('turbolinks:load', Bootsy.init);
 //= require_tree .
+//= require cocoon
