@@ -14,6 +14,7 @@
 //= require bootstrap-sprockets
 //= require jquery_ujs
 //= require rails-ujs
+//= require cocoon
 document.addEventListener('turbolinks:load', Bootsy.init);
 //= require_tree .
-//= require cocoon
+
